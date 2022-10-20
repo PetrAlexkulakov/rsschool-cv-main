@@ -24,10 +24,6 @@
   }
 }
 
-.button-place {
-  background-color: aqua;
-}
-
 .playing-place {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -44,14 +40,6 @@
 }
 .playing-place .card_empty {
   background-color: burlywood;
-}
-
-.now_size {
-  background-color: chartreuse;
-}
-
-.other_size {
-  background-color: chocolate;
 }
 
 .timer-place {
